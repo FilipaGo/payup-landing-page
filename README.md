@@ -6,11 +6,10 @@ expose banking information. All you need is a mobile phone number.
 <br></br>
 <p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-landing-page/master/_images_readme/mockup-site.jpg" width="1000" />
-PayUp App Landing Page.
 </p>
 <br></br>
 
-The marketing landing page's main goals were presenting the product's features and converting new users into downloading the app.
+The marketing landing page targets Milennials and its' main goals were presenting the product's features and converting new users into downloading the app.
 
 👉 Check it out at https://filipago.github.io/payup-landing-page/
 
