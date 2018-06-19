@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="33" height="50" viewBox="0 0 33 50" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="a" x1="42.075%" x2="107.653%" y1="-4.961%" y2="43.739%">
+      <stop stop-color="#000000" stop-opacity=".2" offset="0%"/>
+      <stop stop-color="#54348F" stop-opacity="0" offset="100%"/>
+    </linearGradient>
+    <linearGradient id="c" x1="38.266%" x2="78.059%" y1="73.072%" y2="42.925%">
+      <stop stop-color="#000000" stop-opacity=".1" offset="0%"/>
+      <stop stop-color="#000000" stop-opacity="0" offset="100%"/>
+    </linearGradient>
+    <polygon id="b" points="32.93 12.628 26.988 15.804 5.836 28.021 .056 31.502 11.847 38.327 11.847 38.327 32.93 25.993 32.93 25.993"/>
+  </defs>
+  <g fill="none">
+    <polyline fill="#54348F" points=".111 7.094 6.006 10.64 27.149 22.857 32.93 25.993 32.93 12.628 11.849 .186"/>
+    <polyline fill="url(#a)" points=".111 7.094 6.006 10.64 27.149 22.857 32.93 25.993 32.93 12.628 11.849 .186"/>
+    <polygon fill="#663EAE" points="32.93 12.628 26.988 15.804 5.836 28.021 .056 31.502 11.847 38.327 11.847 38.327 32.93 25.993 32.93 25.993"/>
+    <use fill="#663EAE" fill-rule="evenodd" xlink:href="#b"/>
+    <use fill="url(#c)" fill-rule="evenodd" xlink:href="#b"/>
+    <polyline fill="#784BC9" points=".059 7.131 .059 42.998 .059 42.998 5.962 46.406 11.865 49.814 11.865 42.998 11.865 7.064 11.865 .186"/>
+  </g>
+</svg>
