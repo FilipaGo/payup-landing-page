@@ -9,7 +9,7 @@ expose banking information. All you need is a mobile phone number.
 </p>
 <br></br>
 
-The marketing landing page targets Milennials and its' main goals were presenting the product's features and converting new users into downloading the app.
+The marketing landing page targets Millennials and its' main goals were presenting the product's features and converting new users into downloading the app.
 
 👉 Check it out at https://filipago.github.io/payup-landing-page/
 
