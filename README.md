@@ -1,1 +1,1 @@
-# payup-landing-page
+# PayUp App Landing Page
