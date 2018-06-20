@@ -18,5 +18,6 @@ I developed the website using Webflow 🤟 and some custom code to implement the
 If you want to know more about PayUp, check out the [app prototype here](https://github.com/FilipaGo/payup-app-prototype "PayUp App prototype") and [download the pitch deck](https://github.com/FilipaGo/payup-app-prototype-principle/raw/master/_docs_readme/pitch_payup.key "PayUp Pitch Deck").
 
 <br></br>
+<p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-landing-page/master/_images_readme/bot-wave.gif" width="320"/>Thank You!
 </p>
