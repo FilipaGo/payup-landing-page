@@ -19,5 +19,8 @@ If you want to know more about PayUp, check out the [app prototype here](https:/
 
 <br></br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/FilipaGo/payup-landing-page/master/_images_readme/bot-wave.gif" width="320"/>Thank You!
+<img src="https://raw.githubusercontent.com/FilipaGo/payup-landing-page/master/_images_readme/bot-wave.gif" width="320"/>
+</p>
+<p align="center">
+Thank You!
 </p>
