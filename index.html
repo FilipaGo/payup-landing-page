@@ -625,7 +625,7 @@
       var sticky = new Sticky('.sticker-element');
       // and when parent change height..
       sticky.update();
-    </script>
+  </script>
   <script>
       //prevent body from scrolling when mobile menu is open
       Webflow.push(function() {
@@ -642,7 +642,7 @@
       fixed.addEventListener('touchmove', function(e) {
         e.preventDefault();
       }, false);
-    </script>
+  </script>
   <script>
       //change navbar on scroll
       $(function() {
@@ -651,7 +651,7 @@
           $nav.toggleClass('scrolled', $(this).scrollTop() > $nav.height());
         });
       });
-    </script>
+  </script>
   <script>
       // get browser width
       window.addEventListener("deviceorientation", resized);
@@ -676,7 +676,7 @@
         }
         window.onresize = resized;
       }
-    </script>
+  </script>
   <script>
       // brands slider
       $('.brands-list').slick({
@@ -734,7 +734,7 @@
           }
         ]
       });
-    </script>
+  </script>
   <script>
       // feedback slider
       $(".feedback-slider").slick({
@@ -794,6 +794,6 @@
         $('.single-item').slick('slickGoTo', goToThisIndex, false);
         startProgressbar();
       });
-    </script>
+  </script>
 </body>
 </html>
