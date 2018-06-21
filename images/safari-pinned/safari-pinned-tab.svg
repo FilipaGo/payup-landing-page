@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <title>Asset 1</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g>
+        <rect id="bound" width="16" height="16" fill="none"/>
+        <polygon points="2.693 2.238 4.6 3.387 11.437 7.346 13.307 8.362 13.307 4.031 6.489 0 2.693 2.238"/>
+        <polygon points="13.307 4.101 11.388 5.134 4.559 9.109 2.693 10.242 6.5 12.462 13.307 8.449 13.307 4.101"/>
+        <polygon id="_Path_" data-name=" Path " points="2.693 2.239 2.693 13.803 4.623 14.901 6.553 16 6.553 13.803 6.553 2.217 6.489 0 2.693 2.239"/>
+      </g>
+    </g>
+  </g>
+</svg>
