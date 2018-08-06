@@ -26,7 +26,15 @@ Its' main goals are:
 
 ## Developing the Landing Page
 
-I developed the website using Webflow 🤟 and some custom code to implement the feedback slider, get the browser's width in order to responsively calculate the angled image's width on larger breakpoints, prevent the body from scrolling when the mobile menu is open, change the navbar on scroll, improve SEO... I also used Slick Carousel and Sticky-js.
+I developed the website using Webflow 🤟 and some custom code to:
+
+* implement the feedback slider;
+* get the browser's width in order to responsively calculate the angled image's width on larger breakpoints;
+* prevent the body from scrolling when the mobile menu is open;
+* change the navbar on scroll;
+* improve the SEO...
+
+I also used Slick Carousel and Sticky-js.
 
 ***
 
