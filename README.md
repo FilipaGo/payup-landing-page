@@ -2,7 +2,7 @@
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-landing-page/master/_images_readme/mockup-site.jpg" alt="Detail from PayUp's landing page in desktop and mobile" width="1000" />
-PayUp's landing page.
+<br></br>
 </p>
 
 👉 Check it out at https://filipago.github.io/payup-landing-page/
@@ -24,7 +24,7 @@ PayUp's marketing landing page targets Millennials, our product's target audienc
 * Converting new users into downloading the app (early adopters).
 * Presenting the product's features and the solutions to the problems it solves;
 
-**STEP 1 — Information Architecture**
+### STEP 1 — Information Architecture
 
 Before creating the wireframes, we mapped out the website's main structure. This process helped the team understand the website at a high level before getting into the details of the wireframes.
 
@@ -33,7 +33,7 @@ Before creating the wireframes, we mapped out the website's main structure. This
 PayUp's website information architecture.
 </p>
 
-**STEP 2 — Content Strategy**
+### STEP 2 — Content Strategy
 
 Before diving into the wireframes, we also worked iteratively on the content strategy and the copywriting for the landing page. This helped us to think thoroughly about the sections and content blocks arrangement in order to effectively “sell” our product.
 
@@ -42,7 +42,7 @@ Before diving into the wireframes, we also worked iteratively on the content str
 Copywriting draft and section's structure for the landing page.
 </p>
 
-**STEP 3 — Wireframes**
+### STEP 3 — Wireframes
 
 We further explored how to present the content in a natural way, funnelling the user into downloading the app, with the medium-fidelity wireframes.
 
@@ -53,7 +53,7 @@ To convert people more easily, we decided to place the download CTAs on the top 
 Landing page wireframes.
 </p>
 
-**STEP 4 — Visual Design**
+### STEP 4 — Visual Design
 
 We settled for our base colour palette with two shades of blue and purple, trying to harmonize the app and the website's look and feel. We used grey for the text and plenty of light tones to keep the page clean.
 
@@ -73,7 +73,7 @@ Being a new product, we thought it would be wise to let people know what other u
 Our landing page mockup on mobile.
 </p>
 
-**STEP 5 — Prototyping**
+### STEP 5 — Prototyping
 
 To easily present our solution in a more engaging way, we uploaded the mockups to InVision:
 
