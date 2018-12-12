@@ -5,6 +5,20 @@
 <br></br>
 </p>
 
+📖 <i>`Estimated reading time: 3 minutes (721 words)`</i>
+
+**Table of Contents**
+
+* [What is PayUp?](https://github.com/FilipaGo/payup-landing-page#what-is-payup)<br/>
+* [Designing the Landing Page](https://github.com/FilipaGo/payup-landing-page#designing-the-landing-page)<br/>
+  * [STEP 1 — Information Architecture](https://github.com/FilipaGo/payup-landing-page#step-1--information-architecture)<br/>
+  * [STEP 2 — Content Strategy](https://github.com/FilipaGo/payup-landing-page#step-2--content-strategy)<br/>
+  * [STEP 3 — Wireframes](https://github.com/FilipaGo/payup-landing-page#step-3--wireframes)<br/>
+  * [STEP 4 — Visual Design](https://github.com/FilipaGo/payup-landing-page#step-4--visual-design)<br/>
+  * [STEP 5 — Prototyping](https://github.com/FilipaGo/payup-landing-page#step-5--prototyping)<br/>
+* [Developing the Landing Page](https://github.com/FilipaGo/payup-landing-page#developing-the-landing-page)<br/>
+* [Next Steps](https://github.com/FilipaGo/payup-landing-page#next-steps)<br/>
+
 👉 Check it out at https://filipago.github.io/payup-landing-page/
 
 ## What is PayUp?
