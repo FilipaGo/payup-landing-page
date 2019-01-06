@@ -49,7 +49,7 @@ PayUp's website information architecture.
 
 ### STEP 2 — Content Strategy
 
-Before diving into the wireframes, we also worked iteratively on the content strategy and the copywriting for the landing page. This helped us to think thoroughly about the sections and content blocks arrangement in order to effectively “sell” our product.
+Before diving into the wireframes, we also worked iteratively on the content strategy and the copywriting for the landing page. This helped us think thoroughly about the sections and content blocks arrangement in order to effectively “sell” our product.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/FilipaGo/payup-landing-page/master/_images_readme/copy.jpg" alt="Word document printscreen showing our copywriting" width="1000" />
